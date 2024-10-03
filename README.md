@@ -39,3 +39,7 @@ I looked at a wide variety of v1 sources in order to write this v2 source - but 
 This is a work in progress, but I saved it for later. **I do not currently use this.**
 
 You can use your numpad to quickly resize windows to fit regions in your screen. This is helpful because you can use this *alongside* Windows' PowerToys' FancyZones, effectively getting two layers.
+
+## To Do
+
+- Add animated gifs showing functionality
