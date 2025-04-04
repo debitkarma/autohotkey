@@ -40,6 +40,14 @@ This is a work in progress, but I saved it for later. **I do not currently use t
 
 You can use your numpad to quickly resize windows to fit regions in your screen. This is helpful because you can use this *alongside* Windows' PowerToys' FancyZones, effectively getting two layers.
 
+### Sources for this feature
+
+* [9 Zone, AHK v2 script](https://www.autohotkey.com/boards/viewtopic.php?t=114370)
+* [Simple Windows Drag](https://github.com/Tome-Sulmont/SimpleWindowsDrag)
+* [v2 script referenced](https://www.autohotkey.com/docs/v2/scripts/index.htm#EasyWindowDrag_(KDE))
+* [hyper window snap for advanced snapping features](https://github.com/glenviewjeff/HyperWindowSnap)
+* [middle mouse button based commands](https://www.autohotkey.com/board/topic/87331-middle-mouse-button-gestures-diagonal/)
+
 ## To Do
 
 - Add animated gifs showing functionality
